@@ -435,3 +435,20 @@ background: center center no-repeat;}
 .socials__item--icon--insta, .socials_link{
   background-image: url(./img/in.png);
 }
+
+.socials__item--icon--telegram:hover{
+border-radius: 17px;
+background-color: #d9dce3;
+}
+.socials__item--icon--vk:hover{
+border-radius: 17px;
+background-color: #c1cbe0;
+}
+.socials__item--icon--fb:hover{
+border-radius: 17px;
+background-color: #3b5998;
+}
+.socials__item--icon--insta:hover{
+border-radius: 17px;
+background-color: #ad4f97;
+}
